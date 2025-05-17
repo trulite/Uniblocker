@@ -24,6 +24,8 @@ pyjnius
 pyserini
 # Faiss
 faiss-gpu
+# FastKMeans from PyPI
+fastkmeans
 # NMSLIB
 nmslib
 # Timing
